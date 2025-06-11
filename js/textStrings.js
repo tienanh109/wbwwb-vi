@@ -790,40 +790,7 @@ var textStrings_TR = {
 
 	// (credits000[3,4,5,6].png)
 	"patreonSupporters": "ve Patreon destekçilerime:",
-
-	// (credits0007.png)
-	"lastButNotLeast": "ve son olarak,",
-
-	// (credits0008.png)
-	"thankYouForPlaying": "oynadığın için SANA teşekkürler!",
-
-	// (preload_play.png)
-	"playButton": "OYNA",
-
-	// (end_button.png) Post Credits
-	"otherWorkButton": "diğer çalışmalarımı gör",
-	"buyCoffeeButton": "bana bir kahve ısmarla",
-	"replayButton": "bu karmaşayı tekrar oyna",
-
-	// (logo.png) Post Credits
-	"logoWBWWB": "ACIYI PAYLAŞ:",
-
-	// (end_prototype.png)
-	"endOfPrototype": "PROTOTİP SONU",
-	"toBeContinued": "(devam edecek!)",
-
-	// (quote0002.png)
-	"WBWWB": "Baktıklarımız oluruz.",
-	"WSOTATOTSU": "Aletlerimizi biz şekillendiririz ve sonra aletlerimiz bizi şekillendirir.",
-
-	// (quote0003.png)
-	"MarshallMcLuhan": "Marshall McLuhan",
-
-	// (quote0004.png)
-	"misatrributed": "(yanlış bir şekilde ona atfedilir)",
-};
-
-var textStrings_VI = {
+ var textStrings_VI = {
 	// Act 1
 	"niceHat": "\u0110\u00f9! C\u00e1i m\u0169 \u0111\u1eb9p \u0111\u1ea5y =))", // Đù! Cái mũ đẹp đấy =))
 	"outtaHere": "\u1edd\u006d.. h\u00e3y ra kh\u1ecfi \u0111\u00e2y!!", // ờm.. hãy ra khỏi đây!!
