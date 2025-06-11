@@ -921,4 +921,4 @@ var textStrings_VI = {
 	// (quote0004.png)
 	"misatrributed": "(ghi sai)", // (ghi sai)
 };
-
+var textStrings = textStrings_VI;
