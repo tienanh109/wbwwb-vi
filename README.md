@@ -1,5 +1,7 @@
 # Bản dịch tiếng việt bởi tienanh109
 
+**Link:** https://tienanh109.github.io/wbwwb-vi/
+
 *a game about news cycles, vicious cycles, infinite cycles*
 
 **[PLAY](https://ncase.itch.io/wbwwb)**
