@@ -2,7 +2,7 @@
 ///// TEXT STRINGS ////////////////
 ///////////////////////////////////
 
-var textStrings_EN = {
+var textStrings = {
 	// Act 1
 	"niceHat": "\u0110\u00f9! C\u00e1i m\u0169 \u0111\u1eb9p \u0111\u1ea5y =))", // Đù! Cái mũ đẹp đấy =))
 	"outtaHere": "\u1edd\u006d.. h\u00e3y ra kh\u1ecfi \u0111\u00e2y!!", // ờm.. hãy ra khỏi đây!!
